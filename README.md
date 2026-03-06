@@ -51,6 +51,6 @@ Upcoming architecture experiments:
 
 ## Author
 
-Ramzi Tarazi  
+Ramzi ِAl Tarazi  
 OCI Architect & Developer  
 Oracle Cloud Infrastructure | Java | GenAI Automation
